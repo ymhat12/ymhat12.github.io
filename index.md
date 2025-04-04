@@ -1,4 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello welcome to my Blog, this blog is in representation of ELEC4630 Assignment 2 Question 2 2025
 
 ![Image of fast.ai logo](images/logo.png)
 
