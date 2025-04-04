@@ -11,5 +11,7 @@ between both approaches, one results in faster training perforamnce and the latt
 Adequate batch sizes depend on GPU RAM, as such allocated greater batch sizes is directly reflective on the GPU selected. 
 
 The below graph gives a great explanation of the effects of different batch sizes.
+
+
 ![Image of Batch Sizes](../images/batch.png)
 
