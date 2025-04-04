@@ -2,6 +2,6 @@ Hello welcome to my Blog, this blog is in representation of ELEC4630 Assignment 
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Start of my AI Journey
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
