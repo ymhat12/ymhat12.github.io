@@ -1,5 +1,0 @@
-# ROC Curve 
-
-The ROC curve is a key tool used to determine the relationship between the recognised error rates and the defined threshold of the system.
-This blog post will provide information on what I have learnt about ROC curve and how i implemented it within one of the questions in my 
-assignment
