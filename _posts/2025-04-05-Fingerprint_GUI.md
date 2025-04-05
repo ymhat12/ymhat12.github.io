@@ -16,16 +16,16 @@ image (fingerprint) with an associated name, and display the finger recognition 
 
 Below is a screenshot of the GUI interface prior to fingerprint enrolment
 
-![Image of Initial Fingerprint](../images/Fingerprint_Initial.png)
+![Image of Initial Fingerprint](/images/Fingerprint_Initial.png)
 
 
 The below screenshot shows the GUI interface when the image is uploaded
 
-![Image of Secondary Fingerprint](../images/Fingerprint_Second.png)
+![Image of Secondary Fingerprint](/images/Fingerprint_Second.png)
 
 
 The below screenshow shows the GUI interface when the enrolment is complete
 
-![Image of Final Fingerprint](../images/Fingerprint_Last.png)
+![Image of Final Fingerprint](/images/Fingerprint_Last.png)
 
 
