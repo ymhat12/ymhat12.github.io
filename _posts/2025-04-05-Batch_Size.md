@@ -13,7 +13,7 @@ Adequate batch sizes depend on GPU RAM, as such allocated greater batch sizes is
 The below graph gives a great explanation of the effects of different batch sizes.
 
 
-![Image of Batch Sizes](images/batch.png) 
+![](/images/batch.png "batch size")
 
 
 ## My Experience on Batch Sizes 
