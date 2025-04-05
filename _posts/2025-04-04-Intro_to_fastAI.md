@@ -19,8 +19,7 @@ in the provided repository to be runnable within a dev container, orchestrated b
 
 The below image shows the active dev container run through Docker 
 
-
-![Image of Docker](../images/Docker.png)
+![](../images/Docker.png "docker logo")
 
 Upon the rebuild of the repository within the container, the provided recognition code within the jupyter notebook can be run. 
 NOTE: at the bottom left of the screen, the DEV Container: should be set to CPUfrozen @ desktop-linux. 
