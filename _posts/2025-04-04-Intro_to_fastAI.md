@@ -19,6 +19,7 @@ in the provided repository to be runnable within a dev container, orchestrated b
 
 The below image shows the active dev container run through Docker 
 
+
 ![Image of Docker](../images/Docker.png)
 
 Upon the rebuild of the repository within the container, the provided recognition code within the jupyter notebook can be run. 
