@@ -28,4 +28,12 @@ The below screenshow shows the GUI interface when the enrolment is complete
 
 ![Image of Final Fingerprint](/images/Fingerprint_Last.png)
 
+Through further testing and implementation, the GUI was enhanced even further to include the highest comparitive score displayed upon a list within the GUI. This score reflective of all fingerprints saved within the database, as such showing the most matched. The scores are then saved within an array and the ground label for each is defined in accordance to its reference to a assigned threshold. Below is a screenshot of the demonstration of this GUI implementation. 
+
+![Image of Final Fingerprint](/images/score.png)
+
+The below diagram shows the development of the ROC curve after inputting a series of fingerprints and comparing it with the enrolled fingerprints. 
+
+![Image of Final Fingerprint](/images/fingerprint_ROC.png)
+
 
